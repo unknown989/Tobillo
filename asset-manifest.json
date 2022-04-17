@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3783f723.css",
+    "main.js": "/static/js/main.83c01c2c.js",
+    "static/media/TOBILLO.png": "/static/media/TOBILLO.1a2b15e227b73a9c2977.png",
+    "index.html": "/index.html",
+    "main.3783f723.css.map": "/static/css/main.3783f723.css.map",
+    "main.83c01c2c.js.map": "/static/js/main.83c01c2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3783f723.css",
+    "static/js/main.83c01c2c.js"
+  ]
+}
